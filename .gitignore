@@ -1,1 +1,4 @@
 .idea
+*alembic*
+*venv
+*sqlite
